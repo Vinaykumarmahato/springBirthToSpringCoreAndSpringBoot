@@ -1363,3 +1363,542 @@ Problems
 ---
 
 > 💡 **Pro Tip:** Focus on understanding patterns rather than memorizing solutions. Product companies value problem-solving ability, clean code, and the reasoning behind your approach.
+
+
+---
+
+# 🗄️ SQL & Database Mastery
+
+<div align="center">
+
+# 🚀 SQL Zero to Hero
+
+### 💾 Master SQL, Database Design & Query Optimization
+
+<img src="https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/PostgreSQL-16-336791?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/Database-Design-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Interview-Ready-orange?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🎯 Learning Objectives
+
+By the end of this module you will be able to:
+
+- ✅ Design relational databases
+- ✅ Write optimized SQL queries
+- ✅ Understand indexing
+- ✅ Master joins
+- ✅ Handle transactions
+- ✅ Optimize database performance
+- ✅ Build production-ready schemas
+- ✅ Crack SQL interview rounds
+
+---
+
+# 📂 Folder Structure
+
+```text
+sql
+│
+├── 01-Introduction
+├── 02-Database-Basics
+├── 03-DDL
+├── 04-DML
+├── 05-DQL
+├── 06-DCL
+├── 07-TCL
+├── 08-Constraints
+├── 09-Keys
+├── 10-Functions
+├── 11-Operators
+├── 12-Joins
+├── 13-GroupBy
+├── 14-Having
+├── 15-Subqueries
+├── 16-Views
+├── 17-Indexes
+├── 18-Transactions
+├── 19-Stored-Procedures
+├── 20-Triggers
+├── 21-Normalization
+├── 22-Denormalization
+├── 23-Window-Functions
+├── 24-CTE
+├── 25-Performance-Tuning
+├── 26-Database-Design
+├── 27-Projects
+└── 28-Interview-Questions
+```
+
+---
+
+# 🌍 Module 1 – Introduction
+
+## Learn
+
+- 📌 What is a Database?
+- 📌 RDBMS vs DBMS
+- 📌 SQL Standards
+- 📌 MySQL Architecture
+- 📌 ACID Properties
+
+---
+
+# 🏗️ Module 2 – Database Design
+
+## Learn
+
+- Entity
+- Attributes
+- Relationships
+- Cardinality
+- ER Diagram
+
+### Practice
+
+- Student Database
+- Hospital Database
+- Banking Database
+- Library Database
+
+---
+
+# 📖 Module 3 – DDL
+
+Commands
+
+```sql
+CREATE
+ALTER
+DROP
+TRUNCATE
+RENAME
+```
+
+Practice
+
+- Create Database
+- Create Tables
+- Modify Columns
+- Drop Tables
+
+---
+
+# ✍️ Module 4 – DML
+
+Commands
+
+```sql
+INSERT
+UPDATE
+DELETE
+```
+
+Assignments
+
+- Employee Database
+- Product Database
+- Student Records
+
+---
+
+# 🔍 Module 5 – DQL
+
+```sql
+SELECT
+WHERE
+ORDER BY
+LIMIT
+DISTINCT
+```
+
+Practice
+
+- Filtering
+- Sorting
+- Searching
+
+---
+
+# 🔑 Module 6 – Constraints
+
+- PRIMARY KEY
+- FOREIGN KEY
+- UNIQUE
+- NOT NULL
+- CHECK
+- DEFAULT
+
+Mini Projects
+
+- Banking
+- Hospital
+- University
+
+---
+
+# 🧮 Module 7 – SQL Functions
+
+## Numeric
+
+- ABS()
+- ROUND()
+- CEIL()
+- FLOOR()
+
+## String
+
+- CONCAT()
+- LENGTH()
+- SUBSTRING()
+- LOWER()
+- UPPER()
+
+## Date
+
+- NOW()
+- CURDATE()
+- DATE_ADD()
+- DATEDIFF()
+
+## Aggregate
+
+- COUNT()
+- SUM()
+- AVG()
+- MIN()
+- MAX()
+
+---
+
+# 🤝 Module 8 – Joins
+
+- INNER JOIN
+- LEFT JOIN
+- RIGHT JOIN
+- FULL OUTER JOIN
+- CROSS JOIN
+- SELF JOIN
+
+Practice
+
+- Employee & Department
+- Orders & Customers
+- Products & Categories
+
+---
+
+# 📊 Module 9 – GROUP BY & HAVING
+
+Topics
+
+- GROUP BY
+- HAVING
+- Aggregate Queries
+
+Problems
+
+- Highest Salary
+- Monthly Revenue
+- Customer Reports
+
+---
+
+# 🔍 Module 10 – Subqueries
+
+Learn
+
+- Single Row
+- Multiple Row
+- Correlated
+- Nested
+
+Assignments
+
+- Highest Paid Employee
+- Second Highest Salary
+- Department Average Salary
+
+---
+
+# 🪟 Module 11 – Window Functions
+
+Functions
+
+- ROW_NUMBER()
+- RANK()
+- DENSE_RANK()
+- LEAD()
+- LAG()
+- NTILE()
+
+Interview Problems
+
+- Top N Employees
+- Running Total
+- Ranking Products
+
+---
+
+# 📈 Module 12 – Indexing
+
+Topics
+
+- Clustered Index
+- Non-Clustered Index
+- Composite Index
+- Covering Index
+
+Learn
+
+- Query Execution
+- EXPLAIN
+- Performance Optimization
+
+---
+
+# 🔒 Module 13 – Transactions
+
+Topics
+
+- BEGIN
+- COMMIT
+- ROLLBACK
+- SAVEPOINT
+
+Understand
+
+- ACID
+- Isolation Levels
+- Deadlocks
+
+---
+
+# ⚙️ Module 14 – Stored Procedures
+
+Learn
+
+- Parameters
+- Variables
+- Loops
+- Conditions
+
+Projects
+
+- Salary Generator
+- Monthly Report
+
+---
+
+# ⚡ Module 15 – Triggers
+
+Examples
+
+- Audit Logs
+- Auto Timestamp
+- Inventory Update
+- Salary History
+
+---
+
+# 🏛️ Module 16 – Normalization
+
+Learn
+
+- 1NF
+- 2NF
+- 3NF
+- BCNF
+
+Then Learn
+
+- Denormalization
+- Star Schema
+- Snowflake Schema
+
+---
+
+# 🚀 Module 17 – Performance Tuning
+
+Topics
+
+- Query Optimization
+- Index Selection
+- Avoid SELECT *
+- Execution Plans
+- Batch Operations
+- Connection Pooling
+
+---
+
+# 💼 Real Database Projects
+
+### 🟢 Beginner
+
+- Student Management
+- Employee Database
+- Library Database
+
+### 🟡 Intermediate
+
+- Hospital Management
+- Hotel Booking
+- Banking Database
+- Payroll System
+
+### 🔴 Advanced
+
+- Amazon Clone Database
+- Flipkart Database
+- Netflix Database
+- Food Delivery Database
+- Ride Sharing Database
+
+---
+
+# 🎯 SQL Interview Questions
+
+### Beginner
+
+- Difference between DBMS & RDBMS?
+- What is a Primary Key?
+- Foreign Key?
+- Candidate Key?
+- Composite Key?
+
+---
+
+### Intermediate
+
+- Explain Joins
+- Explain Indexes
+- What is Normalization?
+- ACID Properties?
+- Difference between DELETE, DROP and TRUNCATE?
+
+---
+
+### Advanced
+
+- Query Optimization
+- Execution Plan
+- Deadlock
+- Locking
+- Partitioning
+- Replication
+- Sharding
+- CAP Theorem
+
+---
+
+# 🏆 SQL Practice Challenges
+
+### Easy
+
+- [ ] Retrieve all employees
+- [ ] Highest salary
+- [ ] Second highest salary
+- [ ] Employees by department
+
+### Medium
+
+- [ ] Top 5 customers
+- [ ] Monthly revenue
+- [ ] Running total
+- [ ] Duplicate records
+
+### Hard
+
+- [ ] Recursive CTE
+- [ ] Window ranking
+- [ ] Dynamic Pivot
+- [ ] Complex joins
+
+---
+
+# 📊 Progress Tracker
+
+## SQL Basics
+
+- [ ] Completed
+
+## Joins
+
+- [ ] Completed
+
+## Functions
+
+- [ ] Completed
+
+## Transactions
+
+- [ ] Completed
+
+## Indexing
+
+- [ ] Completed
+
+## Stored Procedures
+
+- [ ] Completed
+
+## Triggers
+
+- [ ] Completed
+
+## Window Functions
+
+- [ ] Completed
+
+## Database Design
+
+- [ ] Completed
+
+## Projects
+
+- [ ] Completed
+
+---
+
+# 🌟 Best Practices
+
+- ✅ Use meaningful table names
+- ✅ Normalize before optimizing
+- ✅ Add indexes carefully
+- ✅ Use transactions for consistency
+- ✅ Avoid unnecessary `SELECT *`
+- ✅ Write readable SQL
+- ✅ Analyze queries using `EXPLAIN`
+- ✅ Backup your database regularly
+- ✅ Enforce constraints
+- ✅ Follow naming conventions
+
+---
+
+# 🎖️ Milestone
+
+🥉 Beginner
+
+- Build 5 databases
+
+🥈 Intermediate
+
+- Solve 100 SQL interview questions
+
+🥇 Advanced
+
+- Design production-grade databases
+
+🏆 Expert
+
+- Optimize complex enterprise queries
+- Design scalable database architectures
+- Master SQL for Amazon SDE interviews
+
+---
+
+> 💡 **Pro Tip:** Strong SQL skills are essential for backend engineering. Focus not only on writing correct queries but also on understanding database design, indexing, transactions, and performance optimization.
