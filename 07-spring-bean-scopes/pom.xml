@@ -5,10 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>in.vinaymahato</groupId>
-    <artifactId>SpringCoreDemo1</artifactId>
+    <artifactId>07-spring-bean-scopes</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
+
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-context</artifactId>
@@ -16,12 +17,6 @@
             <scope>compile</scope>
         </dependency>
 
-        <dependency>
-            <groupId>in.vinaymahato</groupId>
-            <artifactId>SpringcoreDemo3</artifactId>
-            <version>1.0-SNAPSHOT</version>
-
-        </dependency>
     </dependencies>
 
     <properties>
