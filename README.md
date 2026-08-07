@@ -112,10 +112,10 @@ cd springBirthToSpringCoreAndSpringBoot
 ## 📊 Learning Progress
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinaykumarmahato&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&ring_color=38bdf8" height="170" alt="GitHub Stats"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Vinaykumarmahato&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&ring_color=38bdf8" height="170" alt="GitHub Stats"/>
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinaykumarmahato&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&langs_count=6" height="170" alt="Top Languages"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Vinaykumarmahato&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=f9c74f&currStreakLabel=38bdf8&sideLabels=38bdf8&dates=8b949e" alt="GitHub Streak Stats"/>
